@@ -44,6 +44,7 @@ apps with real‑time object detection and AR overlays, and developed encrypted 
   <img src="https://img.shields.io/badge/Verilog-A7D5D5?style=for-the-badge&logo=verilog&logoColor=black" />
 </div>
 
+
 <h3 align="center">🛠️ Developer Tools</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -58,7 +59,7 @@ apps with real‑time object detection and AR overlays, and developed encrypted 
 
 <h3 align="center">🚀 Frameworks</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </div>
 
