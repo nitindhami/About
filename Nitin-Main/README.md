@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/jTMw980OBX5YEAulPm/giphy.gif?cid=790b7611jfmenfs3rsqh3uxl5ja0hbtllw7fskp4ta8x8fts&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Hello" height="100"/>
   <img src="https://media.giphy.com/media/jt2eXsj7kgXreDGav1/giphy.gif?cid=790b7611grlref9yo2fj1j3snxvc0rly8bv7sg40jya3ypux&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Hello" height="100"/>
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Harsh+Gajjar!;" alt="Harsh Gajjar" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Harsh+Gajjar!;" alt="Nitin Dhami" />
   </div>
 </h1>
 
@@ -14,7 +14,7 @@ Developer 👨‍💻 | Blogger ✍️ | Learner 🌱
 
 <div align="center">
 
-🔭 I'm currently deep diving into **modern web and AI Agent frameworks**
+🔭 I'm currently deep diving into ** DataScience and AI Agent frameworks**
 
 </div>
 
