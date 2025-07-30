@@ -55,6 +55,8 @@ apps with real‑time object detection and AR overlays, and developed encrypted 
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/AR%20Foundation-0081CB?style=for-the-badge&logo=unity&logoColor=white" />
+  
 </div>
 
 <h3 align="center">🤖 Machine Learning &amp; Data Science</h3>
@@ -66,7 +68,8 @@ apps with real‑time object detection and AR overlays, and developed encrypted 
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agno_(Phidata)-007ACC?style=for-the-badge&logo=phidata&logoColor=white" />
   <img src="https://img.shields.io/badge/Groq-E34F26?style=for-the-badge&logo=groq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MRTK-0078D7?style=for-the-badge&logo=microsoft&logoColor=white"/>  
 </div>
 
 <h3 align="center">☁️ Cloud/Databases</h3>
@@ -111,9 +114,5 @@ apps with real‑time object detection and AR overlays, and developed encrypted 
 <hr/>
 
 <br/>
-
-<div align="center">
-<a href='https://ko-fi.com/harshgajjar' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com/harshgajjar' /></a>
-</div>
 
 <br/>
